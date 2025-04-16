@@ -1,7 +1,7 @@
 <services>
   <service name="obs_scm">
     <param name="filename">overlayroot</param>
-    <param name="url">https://github.com/zuhhaga/overlayroot.git</param>
+    <param name="url">https://github.com/huakim/overlayroot.git</param>
     <param name="scm">git</param>
     <param name="versionformat">@PARENT_TAG@</param>
     <param name="revision">main</param>
